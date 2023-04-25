@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ana-Maria94
-- 👀 I’m interested in Front-End Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, API, JSON, React.
-- 💞️ I’m looking to collaborate on new interesting projects.
+- 👀 I’m interested in Software Testing.
 - 📫 How to reach me: 
 Email: ana.maria1153@yahoo.com
 <!---
